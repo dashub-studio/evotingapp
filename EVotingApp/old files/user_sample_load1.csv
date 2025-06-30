@@ -1,0 +1,16 @@
+First Name,Last Name,Email,BADGE_ID,IS_REGISTERED,REGISTRY_DATE,VOTER_ID
+Michael,Smith,michael.smith@example.com,BADGE1001,0,NULL,NULL 
+Sarah,Johnson,sarah.johnson@example.com,BADGE1002,0,NULL,NULL 
+David,Brown,david.brown@example.com,BADGE1003,0,NULL,NULL 
+Emma,Williams,emma.williams@example.com,BADGE1004,0,NULL,NULL 
+James,Jones,james.jones@example.com,BADGE1005,0,NULL,NULL 
+Olivia,Miller,olivia.miller@example.com,BADGE1006,0,NULL,NULL 
+John,Davis,john.davis@example.com,BADGE1007,0,NULL,NULL 
+Sophia,Garcia,sophia.garcia@example.com,BADGE1008,0,NULL,NULL 
+Robert,Rodriguez,robert.rodriguez@example.com,BADGE1009,0,NULL,NULL 
+Isabella,Martinez,isabella.martinez@example.com,BADGE1010,0,NULL,NULL 
+William,Hernandez,william.hernandez@example.com,BADGE1011,0,NULL,NULL 
+Mia,Lopez,mia.lopez@example.com,BADGE1012,0,NULL,NULL 
+Alexander,Gonzalez,alexander.gonzalez@example.com,BADGE1013,0,NULL,NULL 
+Charlotte,Wilson,charlotte.wilson@example.com,BADGE1014,0,NULL,NULL 
+Daniel,Anderson,daniel.anderson@example.com,BADGE1015,0,NULL,NULL 

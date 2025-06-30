@@ -1,0 +1,11 @@
+f_name,l_name,email,badge_id,is_registered,registry_date,voter_id
+John,Doe,john.doe@example.com,BADGE12345,0,NULL,NULL 
+Jane,Smith,jane.smith@example.com,BADGE12346,0,NULL,NULL 
+Alice,Johnson,alice.johnson@example.com,BADGE12347,0,NULL,NULL 
+Bob,Williams,bob.williams@example.com,BADGE12348,0,NULL,NULL 
+Charlie,Brown,charlie.brown@example.com,BADGE12349,0,NULL,NULL 
+David,White,david.white@example.com,BADGE12350,0,NULL,NULL 
+Emily,Green,emily.green@example.com,BADGE12351,0,NULL,NULL 
+Frank,Black,frank.black@example.com,BADGE12352,0,NULL,NULL 
+Grace,Blue,grace.blue@example.com,BADGE12353,0,NULL,NULL 
+Hannah,Gray,hannah.gray@example.com,BADGE12354,0,NULL,NULL

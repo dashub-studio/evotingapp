@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Online Voting System</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+  <style>
+    body {
+      background: #f0f4f8;
+    }
+    .header {
+      padding: 40px 0;
+      background-color: #0d6efd;
+      color: white;
+      text-align: center;
+    }
+    .card-link {
+      text-decoration: none;
+      color: inherit;
+    }
+    .card-link:hover {
+      color: #0d6efd;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="header">
+    <h1>Online Voting System</h1>
+    <p class="lead">Welcome! Choose an action below to proceed.</p>
+  </div>
+
+  <div class="container py-5">
+    <div class="row g-4">
+      
+      <!-- Registration -->
+      <div class="col-md-6 col-lg-4">
+        <a href="register.html" class="card-link">
+          <div class="card shadow-sm">
+            <div class="card-body text-center">
+              <h5 class="card-title">📝 Register</h5>
+              <p class="card-text">New voter? Register here to participate in the election.</p>
+            </div>
+          </div>
+        </a>
+      </div>
+
+      <!-- Voting / Poll -->
+      <div class="col-md-6 col-lg-4">
+        <a href="voter_login.php" class="card-link">
+          <div class="card shadow-sm">
+            <div class="card-body text-center">
+              <h5 class="card-title">🗳️ Vote Now</h5>
+              <p class="card-text">Cast your vote securely in ongoing elections.</p>
+            </div>
+          </div>
+        </a>
+      </div>
+
+      <!-- View Results -->
+      <div class="col-md-6 col-lg-4">
+        <a href="compute_results.php?election_id=1" class="card-link">
+          <div class="card shadow-sm">
+            <div class="card-body text-center">
+              <h5 class="card-title">📊 View Results</h5>
+              <p class="card-text">See the live election results and rankings.</p>
+            </div>
+          </div>
+        </a>
+      </div>
+
+      <!-- Contact Admin -->
+      <div class="col-md-6 col-lg-4">
+        <a href="mailto:admin@example.com" class="card-link">
+          <div class="card shadow-sm">
+            <div class="card-body text-center">
+              <h5 class="card-title">📧 Contact Admin</h5>
+              <p class="card-text">Need help? Contact the system administrator.</p>
+            </div>
+          </div>
+        </a>
+      </div>
+
+    </div>
+  </div>
+
+  <footer class="text-center py-4 bg-light">
+    <small>&copy; 2025 Online Voting System. All rights reserved.</small>
+  </footer>
+
+</body>
+</html>

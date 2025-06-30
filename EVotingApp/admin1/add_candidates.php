@@ -1,0 +1,1 @@
+<!DOCTYPE html><html><head><title>Add Candidates</title></head><body><h2>Add Candidates</h2></body></html>
